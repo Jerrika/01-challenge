@@ -154,7 +154,7 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
-#Codesource Location
+# Codesource Location
 * The code can be found in the /Devlop/.index.html and the CSS is located in the Devlop/Assets/CSS/style.css folder.
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
